@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang=en>
+	
+	<head>
+		<meta charset="UTF-8">
+		<!-- Marek K 000348935 -->
+		<link rel = "stylesheet" type="text/css" href="styles/styles.css" />
+		<title></title>
+	
+	</head>
+
+	<body>
+	<script>alert("YYYYYYYYYYYYEEEEEEEEEEEEEEEEEETTTTTTT?")</script>
+		<header> 
+			<h1>TEEEEEEEEEEEEEEEEEEEEET</h1>
+		</header> 
+            <p id="id_p_red">YASDASDASDASD</p>
+            <p>this should be purple red</p>
+            <p class="class_p_blue">gonnna yeet this one</p>
+            <p class="class_p_blue">Blue?</p>
+		<footer>
+		
+		</footer>
+	
+	</body>
+
+</html>
