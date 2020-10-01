@@ -1,0 +1,27 @@
+/* This is a comment */
+
+body {
+    color:rgb(72, 255, 0);
+    font-family: "Comic Sans MS";
+    font-size: 20pt;
+}
+
+h1 
+    {border-style: groove, 2px, white;}
+
+
+p{
+    color: rebeccapurple;
+    font-size: 50px;
+}
+
+#id_p_red {
+    color: red;
+    font-family: "Comic Sans MS";
+
+}
+
+.class_p_blue{
+    color: blue;
+    font-size: 18pt;
+}
